@@ -1,0 +1,10 @@
+#box{
+    font-family: Helvetica, Arial;
+    width: 60%;
+    float: left;
+}
+#box h2{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+

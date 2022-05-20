@@ -1,0 +1,13 @@
+#logo{
+    background-color: steelblue;
+}
+#menu ul li:hover{
+    background-color: steelblue;
+}
+.button-more{
+    background-color: steelblue;
+}
+body{
+    background: url("../img/azul.jpg");
+    background-attachment: fixed;
+}

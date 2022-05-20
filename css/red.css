@@ -1,0 +1,13 @@
+#logo{
+    background-color: indianred;
+}
+#menu ul li:hover{
+    background-color: indianred;
+}
+.button-more{
+    background-color: indianred;
+}
+body{
+    background: url("../img/rojo.jpg");
+    background-attachment: fixed;
+}

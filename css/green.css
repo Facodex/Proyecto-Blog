@@ -1,0 +1,13 @@
+#logo{
+    background-color: rgb(8, 114, 55);
+}
+#menu ul li:hover{
+    background-color: rgb(8, 114, 55);
+}
+.button-more{
+    background-color: rgb(8, 114, 55);
+}
+body{
+    background: url("../img/verde.jpg");
+    background-attachment: fixed;
+}

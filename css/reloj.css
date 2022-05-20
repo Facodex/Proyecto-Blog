@@ -1,0 +1,13 @@
+#box{
+    /* width: 40%;  */
+    float: left;
+    margin-left: 15%;
+    margin-top: 50px;
+}
+#reloj{
+    font-size: 60px;
+    font-family: Helvetica, Arial;
+    color: #333;
+    border: 5px dotted #333;
+    padding: 10px;
+}

@@ -1,0 +1,27 @@
+#box{
+    width: 50%;
+    float: left;
+    margin-left: 40px;
+
+}
+#box h2{
+    font-family: Helvetica, Arial;
+    text-decoration: underline;
+    text-shadow: 1px 1px 1px;
+    color: #333;
+    margin-bottom: 10px;
+}
+#form_contact{
+    font-family: Helvetica, Arial;
+    font-size: 20px;
+    margin: 0 auto;
+}
+#form_contact label{
+    display: block;
+}
+#form_contact input{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: block;
+    box-shadow: 1px 1px 1px;
+}
